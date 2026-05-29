@@ -2,7 +2,7 @@
 
 A responsive **React + TypeScript** web application that helps users simulate tax loss harvesting on their crypto holdings. Built as part of the KoinX Frontend Intern Assignment.
 
-🔗 **Live Demo:** [your-vercel-link-here]  
+🔗 **Live Demo:** https://koinx-tlh-ashen.vercel.app/ 
 📁 **GitHub:** [https://github.com/sahithya-lakku/koinx-tlh](https://github.com/sahithya-lakku/koinx-tlh)
 
 ---
